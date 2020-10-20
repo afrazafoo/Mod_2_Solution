@@ -1,0 +1,15 @@
+{
+  "name": "mod_2",
+  "version": "1.0.0",
+  "description": "\"Assignment No 2\"",
+  "main": "aboutus.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Afraz Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.5.3",
+    "lite-server": "^2.5.4"
+  }
+}
